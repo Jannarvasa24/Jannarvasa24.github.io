@@ -53,8 +53,8 @@ h1 {
     -webkit-background-clip: text;
     color: transparent;
     display: block; /* Ensures justification works properly */
-    line-height: 1.8;  /* Adds space between lines */
-    word-spacing: 2px; /* Adjusts space between words */
+    line-height: 1.6;  /* Adds space between lines */
+    word-spacing: 4px; /* Adjusts space between words */
 }
 
 /* Ensure the last line is justified */
